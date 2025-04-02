@@ -56,8 +56,6 @@ Poor sleep has long been correlated with elevated stress, often accompanied by i
 | K-Nearest Neighbors     | 92.00%   | 13.33%       |
 | Support Vector Machine  | 90.67%   | 14.67%     |
 
-✅ **Evaluation**: Feature importance and confusion matrices.
-
 ---
 
 ## Visualizations
