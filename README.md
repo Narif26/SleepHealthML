@@ -1,4 +1,4 @@
-# 🧠 Sleep Health & Stress Level Prediction Using Machine Learning
+# Sleep Health & Stress Level Prediction Using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-✔️-green)
@@ -7,13 +7,13 @@
 
 ---
 
-## 💬Overview
+## Overview
 
 This project investigates how sleep health metrics — such as **sleep duration**, **quality of sleep**, and **physical activity** — influence an individual's **stress level**. Leveraging machine learning techniques, we build models that predict stress levels and uncover key insights from real-world lifestyle data.
 
 ---
 
-## 🔎 Problem Statement
+## Problem Statement
 
 Poor sleep has long been correlated with elevated stress, often accompanied by increased cortisol, adrenaline, and norepinephrine levels. This project explores:
 
@@ -23,7 +23,7 @@ Poor sleep has long been correlated with elevated stress, often accompanied by i
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 **Name**: Sleep Health and Lifestyle Dataset  
 **Rows**: 400  
@@ -31,11 +31,11 @@ Poor sleep has long been correlated with elevated stress, often accompanied by i
 `Age`, `Gender`, `Occupation`, `Sleep Duration`, `Sleep Quality`, `Stress Level`,  
 `Daily Steps`, `Physical Activity Level`, `BMI`, `Heart Rate`, `Blood Pressure`, `Sleep Disorder`
 
-🔗 [Link to Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
+[Link to Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
 
 ---
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 
 - **Language**: Python  
 - **Environment**: Jupyter Notebook  
@@ -46,7 +46,7 @@ Poor sleep has long been correlated with elevated stress, often accompanied by i
 
 ---
 
-## 🔬 Machine Learning Models Used
+## Machine Learning Models Used
 
 | Model                   | Accuracy | Avg Error |
 |------------------------|----------|-----------|
@@ -60,7 +60,7 @@ Poor sleep has long been correlated with elevated stress, often accompanied by i
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 - Correlation heatmaps
 - Feature importance bar charts
@@ -69,7 +69,7 @@ Poor sleep has long been correlated with elevated stress, often accompanied by i
 
 ---
 
-## 🧠 Key Findings
+## Key Findings
 
 - **Sleep Duration** and **Quality of Sleep** were the strongest predictors of stress.
 - Individuals with **low** or **very high** physical activity levels tended to have higher stress.
